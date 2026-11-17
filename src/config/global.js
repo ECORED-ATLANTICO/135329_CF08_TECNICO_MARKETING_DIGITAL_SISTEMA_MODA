@@ -419,7 +419,7 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
