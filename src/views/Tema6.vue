@@ -182,8 +182,8 @@
       h5 Figura 1.
       |    Indicadores para evaluar el lanzamiento
     figure.mb-5(data-aos="flip-left")
-      img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block").mb-5
-      img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none").mb-5
+      img(src='@/assets/curso/tema6/img_11.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta un mapa conceptual del proceso de evaluación de un lanzamiento comercial, organizado en cuatro indicadores principales: pedidos confirmados, conversión de la tienda, consultas recibidas y devoluciones con sus respectivos motivos. Cada indicador permite analizar diferentes aspectos del comportamiento de los clientes y del desempeño del producto en el mercado. El proceso se complementa con un ciclo de mejora continua compuesto por tres acciones: medir, mediante el seguimiento de los indicadores; aprender, identificando patrones y oportunidades; y optimizar, implementando ajustes para mejorar los resultados en futuras etapas del lanzamiento.").mb-5
+      img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta un mapa conceptual del proceso de evaluación de un lanzamiento comercial, organizado en cuatro indicadores principales: pedidos confirmados, conversión de la tienda, consultas recibidas y devoluciones con sus respectivos motivos. Cada indicador permite analizar diferentes aspectos del comportamiento de los clientes y del desempeño del producto en el mercado. El proceso se complementa con un ciclo de mejora continua compuesto por tres acciones: medir, mediante el seguimiento de los indicadores; aprender, identificando patrones y oportunidades; y optimizar, implementando ajustes para mejorar los resultados en futuras etapas del lanzamiento.").mb-5
 
     .tarjeta.color-primario-10.p-3.px-5.mb-5
       p.mb-0.text-center Los resultados deben compararse con la meta y analizarse junto con las condiciones del lanzamiento.
