@@ -160,7 +160,7 @@
               .col-6
                 img(src="@/assets/curso/tema4/img_8.png", class="img-fluid")
             h4.text-center.fondo-color_color-acento-contenido-5 Acabados y revisión
-            p.text-center Comprobar medidas, uniones, cierres, apariencia, limpieza y etiquetado. Comparar los resultados con la muestra aprobada y los criterios establecidos en la ficha técnica
+            p.text-center Comprobar medidas, uniones, cierres, apariencia, limpieza y etiquetado. Comparar los resultados con la muestra aprobada y los criterios establecidos en la ficha técnica.
           .tarjeta.tarjeta--blanca.border.shadow.p-4.mb-0
             .row.justify-content-center.mb-3
               .col-6

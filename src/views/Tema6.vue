@@ -144,8 +144,11 @@
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 8.
           | Etapas del ciclo de vida comercial
+          
         .tabla-a.mb-0(data-aos="flip-left")
+          
           table
+            caption.mb-3 Nota: elaboración didáctica a partir de Shopify (2024).
             thead
               tr
                 th.col-auto.col-lg-3 Etapa
@@ -203,11 +206,11 @@
           .row.align-items-center
             .col-8.col-lg-5.d-none.d-lg-block.mb-0
             .col-12.col-lg-7
-              h3.mb-3 ¿Sabías qué?
-              p.mb-5 Lo invitamos a escuchar el siguiente Pódcast:
+              h3.mb-3 
+              p.mb-5 
               TarjetaAudio.color-acento-contenido.p-3.mb-0(
-                texto="<span style='font-style: normal !important;'>Del producto al portafolio: una oferta coherente"
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                texto="<span style='font-style: normal !important;'>Del producto al mercado: preparar un lanzamiento"
+                :audio="require_src('@/assets/curso/podcast/135329_CF08_podcas_01.mp3')"
                 tiempo
               )
 

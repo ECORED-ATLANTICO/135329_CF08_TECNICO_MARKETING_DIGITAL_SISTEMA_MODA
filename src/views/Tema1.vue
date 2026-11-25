@@ -148,6 +148,9 @@
           div(titulo="Producto potencial")
             p.mb-3 Reúne las mejoras que podrían incorporarse para responder a necesidades identificadas. Se relaciona con la innovación y la evolución de la oferta.
             p.mb-3 #[strong Ejemplo aplicado:] después de revisar comentarios de compradores, una empresa evalúa incorporar distintos largos de manga. Antes de ofrecerlos, desarrolla y valida las nuevas opciones.
+    
+    .tarjeta.color-acento-contenido-5.p-3.mb-5
+      p.mb-0 La propuesta de valor expresa qué ofrece el producto, a quién le resulta útil y qué beneficios puede aportar. Su comunicación debe apoyarse en características y servicios que la empresa pueda demostrar.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-0
